@@ -19,6 +19,9 @@ logs/
 references/
 pi/
 
+# --- Local runtime / tool cache ---
+.pi/
+
 # --- OS files ---
 .DS_Store
 Thumbs.db
